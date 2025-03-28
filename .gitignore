@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+scan
+*.exe
+*.out
+*.test
+.vscode/
+.env
+*.log
