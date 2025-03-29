@@ -3,6 +3,8 @@ import argparse
 import subprocess
 
 def main():
+    print('대충 상태메세지')
+    print('type -h or --help for help(wip)\n')
     parser = argparse.ArgumentParser()
     parser.add_argument('-r', '--range', dest='range', action='store')
 
